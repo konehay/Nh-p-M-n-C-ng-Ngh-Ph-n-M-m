@@ -5,5 +5,9 @@ Sự thất bại của công ty phụ thuộc vào cách thức tổ chức s�
 Trong năm vừa qua nhân sự quản lý đang dần dần phát triển mạnh mẽ không ở bên ngoài công ty nước mà các công ty tư nhân cũng đang dần dần nhận thấy sự quan trọng của tổ chức cơ cấu trong công ty.
 # Giao diện:
 - trang đăng nhập:
-  ![dangnhap](
+  ![dangnhap](main.png)
+- Trang hiển thị danh sách nhân viên:
+  ![dsnv](dsnv.png)
+- trang hiển thị danh sách lương nhân viên:
+  ![dsl](dsl.png)
 
